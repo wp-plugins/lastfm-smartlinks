@@ -1,7 +1,7 @@
 === Last.fm SmartLinks Widget by AdaptiveBlue ===
 Contributors: AdaptiveBlue
 Tags: smartlinks, last.fm
-Tested up to: 2.2.3
+Tested up to: 2.5
 Stable tag: trunk
 
 This plugin creates widgets that display Last.fm lists that automatically update and monetize your blog!
